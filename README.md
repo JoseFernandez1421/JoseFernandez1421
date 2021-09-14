@@ -6,8 +6,8 @@ Actualmente estoy cursando ***POO2*** y ***Desarrollo basado en plataformas***
 
 Conozco de programación básica de: 
 - Python
+- Java
 - C++
-- java
 
 ![Image](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/133547927/original/4035f5167959af26ebae2db8965cac3dafa191fe/develop-deploy-debug-python-java-c-projects.png)
 
