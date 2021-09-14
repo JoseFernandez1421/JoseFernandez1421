@@ -2,7 +2,7 @@
 
 Hola, soy *José Martín*, estudiante de la carrera de **Ciencias de la Computación**
 
-Actualmente estoy cursando POO2 y Desarrollo basado en plataformas
+Actualmente estoy cursando ***POO2** y ***Desarrollo basado en plataformas***
 
 Conozco de programación básica de: 
 - Python
