@@ -1,4 +1,4 @@
-# Mi readme file :)
+# Mi readme file ;)
 
 Hola, soy *José Martín*, estudiante de la carrera de **Ciencias de la Computación**
 
